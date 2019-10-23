@@ -13,7 +13,7 @@
 	// 	],
 	// 	"description": "Log output to console"
 	// }
-	"Print to console": {
+	"require": {
 		 	"prefix": "req",
 		 	"body": [
 				"const $1 = require('$2');$0",
