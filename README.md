@@ -7,7 +7,15 @@ A snippet to speed up your workflow in JavaScript.
 3. Enter `Preferences: Configure User Snippets`.
 4. Confirm with <kbd>Return</kbd>.
 5. Enter `javascript` and confirm with <kbd>Return</kbd>.
-6. Copy paste the content below.
+6. Copy paste the code below.
+
+## Usage
+This snippet makes creating the basic HTML structure easy.
+1. Create a `.json` file
+2. Enter `req` and hit <kbd>Return</kbd>.
+3. The snippet completes the require statement.
+
+You can also use <kbd>⇥ Tab</kbd> to jump to the next placeholder.
 
 ## Code
 ```json
