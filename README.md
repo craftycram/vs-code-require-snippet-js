@@ -1,4 +1,4 @@
-<h1 align="center">Virtual Studio Code - JavaScript Snippet</h1>
+<h1 align="center">Visual Studio Code - JavaScript Snippet</h1>
 A snippet to speed up your workflow in JavaScript.
 
 ## Installation
