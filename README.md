@@ -12,7 +12,7 @@ A snippet to speed up your workflow in JavaScript.
 ## Code
 ```json
 {
-  // Example orgiginally by Visual Studio Code:
+    // Example orgiginally by Visual Studio Code:
 	// Place your snippets for javascript here. Each snippet is defined under a snippet name and has a prefix, body and 
 	// description. The prefix is what is used to trigger the snippet and the body will be expanded and inserted. Possible variables are:
 	// $1, $2 for tab stops, $0 for the final cursor position, and ${1:label}, ${2:another} for placeholders. Placeholders with the 
@@ -26,7 +26,7 @@ A snippet to speed up your workflow in JavaScript.
 	// 	],
 	// 	"description": "Log output to console"
 	// }
-	"Print to console": {
+	"require": {
 		 	"prefix": "req",
 		 	"body": [
 				"const $1 = require('$2');$0",
