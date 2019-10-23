@@ -7,7 +7,7 @@ A snippet to speed up your workflow in JavaScript.
 3. Enter `Preferences: Configure User Snippets`.
 4. Confirm with <kbd>Return</kbd>.
 5. Enter `javascript` and confirm with <kbd>Return</kbd>.
-6. Copy paste the code below.
+6. Copy and paste the code below.
 
 ## Usage
 This snippet makes creating the basic HTML structure easy.
