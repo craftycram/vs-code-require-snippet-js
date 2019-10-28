@@ -18,7 +18,7 @@ This snippet makes creating the basic HTML structure easy.
 You can also use <kbd>⇥ Tab</kbd> to jump to the next placeholder.
 
 ## Code
-```json
+```jsonc
 {
     // Example orgiginally by Visual Studio Code:
 	// Place your snippets for javascript here. Each snippet is defined under a snippet name and has a prefix, body and 
